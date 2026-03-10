@@ -1,0 +1,17 @@
+{
+  "name": "dddjavascriptproject",
+  "version": "1.0.0",
+  "description": "DDD JavaScript project",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "ts-node index.ts"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.0",
+    "@types/uuid": "^9.0.0"
+  }
+}
