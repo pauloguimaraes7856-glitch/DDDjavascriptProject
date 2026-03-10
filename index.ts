@@ -1,5 +1,5 @@
 // DDD product domain implementation
-import { createPrice, createProduct } from "./domain//product/factories"
+import { createPrice, createProduct } from "./domain/product/factories"
 import { sendEmailMock } from "./infrastructure/observers/email"
 import { saveToDatabaseMock } from "./infrastructure/observers/database"
 
